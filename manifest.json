@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Для моей любимой ❤️",
+  "version": "1.0",
+  "description": "Самое важное расширение в мире",
+  "browser_action": {
+    "default_title": "Открыть валентинку",
+    "default_popup": "love.html"
+  },
+  "icons": {
+    "128": "heart-icon.png"
+  }
+}
